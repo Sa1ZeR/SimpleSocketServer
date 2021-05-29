@@ -1,6 +1,5 @@
 package me.sa1zer_.server.utils;
 
-
 import me.sa1zer_.server.MainServer;
 import org.apache.log4j.Logger;
 
