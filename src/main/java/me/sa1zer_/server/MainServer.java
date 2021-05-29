@@ -12,7 +12,6 @@ public class MainServer {
     private ServerSocketHandler serverSocketHandler;
 
     public MainServer() {
-        LoggerUtils.log(LoggerUtils.LogType.LOG_ERROR, "dwa");
         instance = this;
 
         serverConfig = new ServerConfig();
